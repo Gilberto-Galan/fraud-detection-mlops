@@ -1,0 +1,24 @@
+# Entorno Virtual (¡Nunca subir esto!)
+venv/
+.venv/
+env/
+
+# Python: Archivos temporales de compilación
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Datos y Modelos
+# Subiremos el csv de muestra pero no el dataset grande de entrenamiento
+data/dataset.csv
+mlruns/
+.ipynb_checkpoints/
+
+# Docker
+.docker/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
