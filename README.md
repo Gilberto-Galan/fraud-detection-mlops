@@ -5,7 +5,7 @@
 [![MLflow](https://img.shields.io/badge/MLflow-2.10.0-blue.svg)](https://mlflow.org/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED.svg)](https://www.docker.com/)
 
-Sistema profesional de detección de fraude bancario diseñado con una arquitectura **MLOps** de extremo a extremo. Este proyecto demuestra la integración de modelos de Machine Learning en entornos de producción, garantizando reproducibilidad, observabilidad y escalabilidad.
+Sistema de detección de fraude bancario diseñado con una arquitectura **MLOps** de extremo a extremo. Este proyecto demuestra la integración de modelos de Machine Learning en entornos de producción, garantizando reproducibilidad, observabilidad y escalabilidad.
 
 ---
 
