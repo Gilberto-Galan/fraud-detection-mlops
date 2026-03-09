@@ -22,7 +22,9 @@ Sistema de detección de fraude bancario diseñado con una arquitectura **MLOps*
 
 ### Clonar el repositorio
 
-`git clone https://github.com/tu-usuario/fraud-detection-mlops.git`
+```bash
+git clone https://github.com/tu-usuario/fraud-detection-mlops.git
+```
 
 `cd fraud-detection-mlops`
 
@@ -32,7 +34,9 @@ source venv/bin/activate  # En Windows: .\venv\Scripts\activate
 `
 
 ### Instalar dependencias con versiones fijas para evitar conflictos
-`pip install -r requirements.txt `
+```bash
+pip install -r requirements.txt
+```
 
 ### Ciclo de Entrenamiento
 El script genera automáticamente un dataset de prueba si no existe y registra el experimento:
@@ -42,7 +46,9 @@ El script genera automáticamente un dataset de prueba si no existe y registra e
 ### Despliegue con Docker (API + UI)
 La forma más robusta de ejecutar el sistema completo:
 
-`docker-compose up --build`
+```bash
+docker-compose up --build
+```
 
 `Swagger UI (API Docs): http://localhost:8000/docs`
 
