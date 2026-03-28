@@ -23,7 +23,7 @@ Sistema de detección de fraude bancario diseñado con una arquitectura **MLOps*
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/fraud-detection-mlops.git
+git clone https://github.com/Gilberto-Galan/fraud-detection-mlops.git
 ```
 
 `cd fraud-detection-mlops`
